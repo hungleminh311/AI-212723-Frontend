@@ -1,0 +1,73 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "buttonText": "Get started",
+        "linkText": "Learn more",
+        "subtitle": "Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua. Deploy to the cloud with confidence Deploy to the cloud with confidence",
+        "title": "Deploy to the cloud with confidence Deploy to the cloud with confidence Deploy to the cloud with confidence Deploy to the cloud with confidence "
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk.",
+        "title": "Roll the Dice on Creativity"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Roll the Dice on Creativity",
+  "subtitle": "Unlock limitless design possibilities with Gamble — where creativity meets risk."
+}
